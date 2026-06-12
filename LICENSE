@@ -1,0 +1,53 @@
+Rules Manager — Proprietary Software License
+
+Copyright (c) 2026 广州月之轨迹科技有限公司
+(Guangzhou MoonTrack Technology Co., Ltd.)
+
+All rights reserved.
+
+---
+
+## 1. Scope
+
+This GitHub repository distributes **pre-built binary installers** and
+documentation for Rules Manager. **No source code is provided.**
+
+By downloading or installing Rules Manager from official GitHub Releases, you
+agree to the terms below.
+
+## 2. Grant of license
+
+You receive a limited, non-exclusive, non-transferable, revocable license to
+install and use Rules Manager for personal or internal business purposes, from
+official release artifacts published by the copyright holder only.
+
+## 3. Restrictions
+
+Unless applicable law prohibits such restrictions, you may not:
+
+- Redistribute, sell, rent, or sublicense the software or installers
+- Reverse engineer, decompile, or attempt to derive source code
+- Remove or alter copyright, trademark, or proprietary notices
+- Use the software in violation of applicable law
+
+## 4. Third-party components
+
+Rules Manager incorporates third-party open source software listed in
+[NOTICE.md](NOTICE.md). Your use of those components is subject to their
+respective licenses. This proprietary license does not expand or reduce your
+rights under those third-party licenses.
+
+## 5. Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+## 6. Contact
+
+https://www.moontrack.cloud/
+
+---
+
+*Rules Manager is not open source. Do not confuse this repository with an
+open-source project.*
