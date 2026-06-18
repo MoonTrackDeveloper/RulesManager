@@ -1,0 +1,47 @@
+Rules Manager — 许可协议 (License Agreement)
+
+Copyright © 2026 MoonTrackDeveloper
+All rights reserved.
+
+================================================================================
+简体中文
+================================================================================
+
+本安装包为 Rules Manager 专有软件，不含源代码。
+
+安装或使用即表示您同意：
+
+1. 您仅可将本软件用于个人安装与使用；授权范围限于官方发布的安装包。
+2. 您不得转售、出租、分发经修改的安装包，或对本软件进行反向工程、反编译。
+3. 本软件内置第三方开源组件，清单见 GitHub 仓库 NOTICE.md；本软件本身
+   不以开源方式授权。
+4. 本软件按「现状」提供，不附带任何明示或默示保证。
+
+您可以分享原始未修改的安装包，但须保留完整的版权与许可声明；分享须为
+非商业目的，且不得替代官方 GitHub Releases 作为唯一或主要分发渠道。
+
+GitHub：https://github.com/MoonTrackDeveloper
+
+================================================================================
+English
+================================================================================
+
+This installer contains proprietary Rules Manager software. No source code
+is included.
+
+By installing or using the software, you agree that:
+
+1. You may install and use it for personal use only, from official releases.
+2. You may not resell, rent, distribute modified installers, or reverse
+   engineer the software.
+3. The software includes third-party open source components listed in the
+   GitHub repository NOTICE.md; the application itself is not open source.
+4. The software is provided "AS IS" without warranties of any kind.
+
+You may share unmodified installers provided you retain all copyright and
+license notices intact. Sharing must be non-commercial and must not replace
+official GitHub Releases as the sole or primary distribution channel.
+
+GitHub: https://github.com/MoonTrackDeveloper
+
+本软件非开源。This software is not open source.
