@@ -1,0 +1,86 @@
+# Rules Manager — 许可协议 (License Agreement)
+# Rules Manager — License Agreement
+
+Copyright © 2026 MoonTrackDeveloper
+
+All rights reserved.
+
+---
+
+## 简体中文
+
+### 1. 范围
+
+本 GitHub 仓库仅分发 Rules Manager 的**预编译安装包**与说明文档，**不提供源代码**。
+
+从官方 GitHub Releases 下载或安装本软件，即表示您同意下列条款。
+
+### 2. 授权
+
+您获得一项有限的、非独占、不可转让的许可，仅可将本软件用于**个人**安装与使用。授权范围限于官方发布的安装包。
+
+### 3. 限制
+
+除适用法律禁止此类限制的情形外，您不得：
+
+- 转售、出租或转授安装包或本软件
+- 分发经修改的安装包
+- 对本软件进行反向工程、反编译或试图获取源代码
+- 移除或篡改版权、商标或专有声明
+- 以违反适用法律的方式使用本软件
+
+您可以分享原始未修改的安装包，但须保留完整的版权与许可声明。分享须为**非商业**目的，且不得替代官方 GitHub Releases 作为唯一或主要分发渠道。
+
+### 4. 第三方组件
+
+本软件内置第三方开源组件，清单见 [NOTICE.md](NOTICE.md)。您对这些组件的使用受其各自许可约束。本专有许可不改变您在该等第三方许可下的权利或义务。
+
+### 5. 免责声明
+
+本软件按「**现状**」提供，不附带任何明示或默示保证，包括但不限于适销性、特定用途适用性及不侵权保证。
+
+### 6. 联系
+
+- GitHub：https://github.com/MoonTrackDeveloper
+
+---
+
+## English
+
+### 1. Scope
+
+This GitHub repository distributes **pre-built installers** and documentation for Rules Manager. **No source code is provided.**
+
+By downloading or installing from official GitHub Releases, you agree to the terms below.
+
+### 2. Grant of license
+
+You receive a limited, non-exclusive, non-transferable license to install and use Rules Manager for **personal** use only, from official release artifacts.
+
+### 3. Restrictions
+
+Unless applicable law prohibits such restrictions, you may not:
+
+- Resell, rent, or sublicense the software or installers
+- Distribute modified installers
+- Reverse engineer, decompile, or attempt to derive source code
+- Remove or alter copyright, trademark, or proprietary notices
+- Use the software in violation of applicable law
+
+You may share unmodified installers provided you retain all copyright and license notices intact. Sharing must be **non-commercial** and must not replace official GitHub Releases as the sole or primary distribution channel.
+
+### 4. Third-party components
+
+Rules Manager incorporates third-party open source software listed in [NOTICE.md](NOTICE.md). Your use of those components is subject to their respective licenses. This proprietary license does not expand or reduce your rights under those third-party licenses.
+
+### 5. Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+### 6. Contact
+
+- GitHub: https://github.com/MoonTrackDeveloper
+
+---
+
+*本软件非开源。This software is not open source.*
